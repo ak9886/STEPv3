@@ -1,3 +1,3 @@
 # STEPv3
-This is a repository for the 3rd iteration of our STEP classes<br>
-This is where I'll add my STEP files
+This is a repository for the 3rd iteration of our STEP classes.<br>
+This is where I'll add my STEP files.
